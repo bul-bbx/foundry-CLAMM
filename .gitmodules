@@ -7,3 +7,6 @@
 [submodule "foundry-invariant-tests/lib/forge-std"]
 	path = foundry-invariant-tests/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-handler-tests/lib/forge-std"]
+	path = foundry-handler-tests/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
